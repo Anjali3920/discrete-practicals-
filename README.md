@@ -1,5 +1,6 @@
 # discrete-practicals-
 ## practical 1 
+```
 class SET:
     def __init__(self, u_set):
         self.u_set = u_set
@@ -84,7 +85,7 @@ Enter your choice (1–7): """)
     else:
         print("Invalid choice. Please try again.")
         main()
-
+```
 
 if __name__ == "__main__":
     for _ in range(8):
