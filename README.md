@@ -85,8 +85,8 @@ Enter your choice (1–7): """)
     else:
         print("Invalid choice. Please try again.")
         main()
-```
 
 if __name__ == "__main__":
     for _ in range(8):
         main()
+```
