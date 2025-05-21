@@ -151,7 +151,7 @@ def main():
 if __name__ == "__main__":
     main()
 ```
-outputs 
+outputs prac 1
 
 ![image](https://github.com/user-attachments/assets/586290f7-d4de-4989-99bb-dc1873a28471)
 
@@ -175,4 +175,9 @@ outputs
 
 ![image](https://github.com/user-attachments/assets/ba706bdc-f785-4520-818e-24fda7b09dc6)
 
+prac 2
+![image](https://github.com/user-attachments/assets/26f60c62-3b62-4049-8812-d9119c93a80f)
 
+![image](https://github.com/user-attachments/assets/71e048ed-93a8-4ae4-8f4e-0fec7d4c4729)
+
+![image](https://github.com/user-attachments/assets/c39a7f31-5f1f-4225-8cda-1f47f976325f)
