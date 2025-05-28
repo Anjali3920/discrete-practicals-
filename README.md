@@ -1,4 +1,63 @@
 ## prac 1
+![image](https://github.com/user-attachments/assets/391517d7-2a18-4397-901b-2336cd49e396)
+## prac 2
+![image](https://github.com/user-attachments/assets/b005a41f-8f05-4c73-8c3e-a4135d9b845d)
+![image](https://github.com/user-attachments/assets/6c136af2-7a07-4a6c-a3be-33568e0a1f96)
+## prac 3
+![image](https://github.com/user-attachments/assets/e9da3857-cc87-441f-9489-897bcbffce9c)
+## prac 4
+![image](https://github.com/user-attachments/assets/320f664a-ca9f-45cd-9228-2893a3b709e4)
+## prac5
+![image](https://github.com/user-attachments/assets/e5b702f2-7d4f-46ab-8cdd-b2242b5cf776)
+
+## prac 6
+![image](https://github.com/user-attachments/assets/02998ed9-18bf-44f5-80c9-2d3721c940f8)
+
+## prac7
+![image](https://github.com/user-attachments/assets/2c375256-cfdf-4ce9-8174-1c540d569e0b)
+
+## prac 8
+![image](https://github.com/user-attachments/assets/af6e5a89-3fa6-48e2-9b39-d5f772ea97ff)
+![image](https://github.com/user-attachments/assets/024cf879-fe1a-4d9f-ad0a-60a5f67a8759)
+
+## prac9
+
+## prac 10
+![image](https://github.com/user-attachments/assets/cf3f9186-3df7-41ab-8d3b-e62be5a2e4ac)
+
+## prac  11
+![image](https://github.com/user-attachments/assets/74b5ffda-0c33-44da-bfa0-d37509ea0003)
+
+## prac 12
+![image](https://github.com/user-attachments/assets/6fee978d-9915-4650-8219-53bb86bde6ae)
+
+## prac 13
+![image](https://github.com/user-attachments/assets/de88e0e4-f400-44fb-a78e-7dbc2ec96509)
+![image](https://github.com/user-attachments/assets/020b1d9c-049e-428a-9f05-b48f82bf616c)
+
+## prac 14
+![image](https://github.com/user-attachments/assets/24acf634-9b7f-41d7-b209-0313e5a1c2ca)
+![image](https://github.com/user-attachments/assets/6792f022-524e-4b98-a53b-4670ce39b43c)
+
+## prac 15
+![image](https://github.com/user-attachments/assets/80451e88-4879-4caa-94c5-4bdfa867bc89)
+![image](https://github.com/user-attachments/assets/571cc6af-4160-48b3-91a6-2429c7452d5c)
+![image](https://github.com/user-attachments/assets/fe9fc3c4-39cd-4fbc-8e56-7a4ab5a7b7f3)
+![image](https://github.com/user-attachments/assets/f4b54e50-4b2d-46f7-b20a-e6c5ddd9caae)
+
+## prac 16
+![image](https://github.com/user-attachments/assets/13d6f6fc-7307-4cfa-b098-7f32f2f42834)
+![image](https://github.com/user-attachments/assets/f0573d08-9e65-49ee-b8f2-a4e934341bde)
+![image](https://github.com/user-attachments/assets/193e29b2-3d9c-40b1-b59c-5b79f79e2269)
+
+## prac 17
+![image](https://github.com/user-attachments/assets/73f28e2b-4173-4bec-997f-5533db8f36a3)
+![image](https://github.com/user-attachments/assets/c9ae417b-7f60-4704-8d0e-ff41dc7c6779)
+
+## prac 18
+![image](https://github.com/user-attachments/assets/55c7c503-9e3d-4163-8379-9c3b1de679f0)
+![image](https://github.com/user-attachments/assets/06398ff4-edf0-4b31-9d88-e70be0c2b494)
+![image](https://github.com/user-attachments/assets/b67cdc53-72ed-4684-a95b-6a8bcd575874)
 
 # prob-practical
 
