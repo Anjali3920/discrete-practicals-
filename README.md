@@ -574,3 +574,22 @@ prac 7
 ![image](https://github.com/user-attachments/assets/f429fc4c-87f8-4732-9a21-895368cc84a4)
 prac 8
 ![image](https://github.com/user-attachments/assets/d121fc22-d44d-41ce-ba30-12e11096e400)
+```
+
+Unit 1
+Basic Probability: Introduction to the notion of probability, Random experiment, Sample space and Events, Probability defined on events, Algebra of events. Conditional probabilities, independent events, Bayes' theorem.
+
+UNIT-II
+
+Random Variables: Introduction to Random Variables, Probability mass/density functions, Cumulative distribution functions. Discrete Random Variables (Bernoulli, Binomial, Poisson, Multinomial and Geometric). Continuous Random Variables (Uniform, Exponential and Normal). Expectation of a Random Variable, Expectation of Function of a Random Variable and Variance. Markov inequality, Chebyshev's inequality, Central Limit Theorem, Weak and Strong Laws of Large Numbers.
+
+UNIT-III
+
+Joint Distributions; Jointly distributed Random Variables, Joint distribution functions, Independent Random Variables, Covariance of Random Variables, Correlation Coefficients. Conditional Expectation.
+
+Unit 4
+Markov Chain and Information Theory: Introduction to Stochastic Processes, Chapman Kolmogorov equations, Classification of states, Limiting and Stationary Probabilities. Random Number Generation, Pseudo Random Numbers, Inverse Transformation Method, Rejection Method, Uncertainty, Information and Entropy, Mutual Information, KL Divergence.
+
+Explain all these topics with their definition and formula with examples in hinglish as tomorrow is my viva and external teacher can ask question from any of the topics and also explain if any topics have types or  parts around please explain it also., I would be very grateful  🙏
+
+```
